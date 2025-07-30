@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liyo Tom</h1>
 
 <p align="center">
+  🚀 Passionate Frontend Developer | 🌱 AI/ML Enthusiast | 🎨 UI/UX Explorer<br>
 🌱 Currently learning <strong>Flutter</strong> and <strong>React</strong> <br>
 💬 Ask me about <strong>React</strong>
 </p>
@@ -57,7 +58,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/liyo tom" target="_blank">
+  <a href="https://linkedin.com/in/liyotom" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
 </p>
