@@ -33,8 +33,8 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liyo08&show_icons=true&locale=en" alt="liyo08" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&show_icons=true&locale=en&layout=compact" alt="liyo08" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=liyo08&show_icons=true&locale=en&theme=dark-blue" alt="liyo08" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&show_icons=true&locale=en&layout=compact&theme=dark-blue" alt="liyo08" height="150"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=liyo08" alt="liyo08 trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=dark-blue" alt="liyo08 trophies"/>
   </a>
 </p>
 
