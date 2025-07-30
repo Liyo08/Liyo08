@@ -54,6 +54,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liyo08/liyo08/output/snake.svg" alt="Snake animation"/>
+</p>
 
 
 ---
