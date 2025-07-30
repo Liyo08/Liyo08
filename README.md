@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Liyo Tom</h1>
 
-
+<p align="center">
+  🚀 Passionate Frotend Developer | React | Flutter
+</p>
 
 ## 💡 About Me
 
