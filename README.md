@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Liyo Tom</h1>
 
 <p align="center">
-  🚀 Passionate Frontend Developer | 🌱 AI/ML Enthusiast | 🎨 UI/UX Explorer<br>
-
+  🚀 Passionate Frontend Developer | 🌱 AI/ML Enthusiast | 🎨 UI/UX Explorer
 </p>
+---
 
+## 💡 About Me
 
-🌱 Currently learning <strong>Flutter</strong> and <strong>React</strong> <br>
-💬 Ask me about <strong>React</strong>
+- 🎓 B.Tech Computer Science 
+- 🌱 Currently exploring Flutter and React  
+- ⚡ Fun Fact: I love bringing designs to life with clean, interactive frontends  
+- 🔭 Always experimenting with ideas — currently building full-stack apps with Flutter and Firebase  
+- 📚 Passionate about AI, clean UI, and real-time systems  
+
 
 ---
 ### 🧑‍💻 Tech Stack
