@@ -3,7 +3,7 @@
 
 
 
-🌱 I’m currently learning **Flutter and React**
+🌱 I’m currently learning **Flutter and React**<br>
 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:</h3>
