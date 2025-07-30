@@ -2,12 +2,14 @@
 
 <p align="center">
   🚀 Passionate Frontend Developer | 🌱 AI/ML Enthusiast | 🎨 UI/UX Explorer<br>
-🌱 Currently learning <strong>Flutter</strong> and <strong>React</strong> <br>
-💬 Ask me about <strong>React</strong>
+
 </p>
 
 ---
+🌱 Currently learning <strong>Flutter</strong> and <strong>React</strong> <br>
+💬 Ask me about <strong>React</strong>
 
+---
 ### 🧑‍💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -34,16 +36,16 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liyo08&show_icons=true&locale=en&theme=dark-blue" alt="liyo08" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&show_icons=true&locale=en&layout=compact&theme=dark-blue" alt="liyo08" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=liyo08&show_icons=true&locale=en&theme=radical" alt="liyo08" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&show_icons=true&locale=en&layout=compact&theme=radical" alt="liyo08" height="150"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=dark-blue" alt="liyo08 trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical">
+    <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=radical" alt="liyo08 trophies"/>
   </a>
 </p>
 
