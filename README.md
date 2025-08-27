@@ -46,14 +46,14 @@
 </p>
 
 ---
-<--
+
 ### 🏆 GitHub Trophies
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical">
     <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=radical" alt="liyo08 trophies"/>
   </a>
 </p>
--->
+
 
 
 ---
