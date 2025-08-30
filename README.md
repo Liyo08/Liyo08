@@ -45,14 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&show_icons=true&locale=en&layout=compact&theme=radical" alt="liyo08" height="150"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy&theme=radical">
-    <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=radical" alt="liyo08 trophies"/>
-  </a>
-</p>
 
 
 
