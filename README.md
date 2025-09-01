@@ -49,7 +49,7 @@
 
 
 ---
-### ✍ Random Dev Quote
+### ✍ Random Dev Quotes
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
 </p>
