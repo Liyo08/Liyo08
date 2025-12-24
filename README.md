@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liyo Tom</h1>
 <p align="center">
-  <em>🚀 Passionate Frontend Developer | React | Flutter</em>
+  <em>🚀 Passionate Frontend Developer | ReactJS | Flutter</em>
 </p>
 
 
