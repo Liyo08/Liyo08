@@ -40,16 +40,17 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=liyo08&show_icons=true&locale=en&theme=radical" alt="liyo08" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&show_icons=true&locale=en&layout=compact&theme=radical" alt="liyo08" height="150"/>
+  <img height="150" src="https://github-readme-stats-liard.vercel.app/api?username=liyo08&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats-liard.vercel.app/api/top-langs?username=liyo08&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=radical" alt="liyo08 trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=radical&no-frame=true&margin-w=5" />
 </p>
+
 
 
 
