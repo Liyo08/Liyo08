@@ -46,11 +46,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=liyo08&theme=radical&no-frame=true&margin-w=5" alt="Liyo08's Trophies" />
+  <img src="https://metrics.lecoq.io/liyo08?template=classic&base=common&plugin.achievements=true&plugin.achievements.threshold=B&config.timezone=Asia%2FCalcutta" alt="Liyo08's Achievements" />
 </p>
-
 
 
 ---
