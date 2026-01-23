@@ -1,14 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Liyo%20Tom&fontSize=90&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20ReactJS%20%7C%20Flutter&descAlign=50&descAlignY=60&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Liyo%20Tom&fontSize=90&fontAlign=50&fontAlignY=40&animation=twinkling"/>
 </div>
-</div>
-
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=200&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer;ReactJS;Flutter" alt="Typing SVG" />
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to my Digital Universe!
+  Welcome to my Digital Playground
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
+
 
 <div align="center">
   <a href="https://github.com/liyo08?tab=followers">
