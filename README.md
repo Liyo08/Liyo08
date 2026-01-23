@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/Stack-React%20%26%20Flutter-blue?style=flat-square" alt="Stack" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>>
 
 ---
 
