@@ -78,12 +78,6 @@ I believe in the power of visual storytelling through code. Whether it's archite
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyo08&layout=compact&theme=radical" alt="Liyo08's Top Languages" />
 </p>
 
----
-
-### 🏆 Achievements
-<p align="left">
-  <img src="https://metrics.lecoq.io/liyo08?template=classic&base=common&plugin.achievements=true&plugin.achievements.threshold=B&config.timezone=Asia%2FCalcutta" alt="Liyo08's Achievements" />
-</p>
 
 ---
 
