@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Liyo%20Tom&fontSize=90&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20ReactJS%20%7C%20Flutter&descAlign=50&descAlignY=60&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Venkidesh%20Venu&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Innovator&descAlign=50&descAlignY=60&animation=twinkling"/>
 </div>
+
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
