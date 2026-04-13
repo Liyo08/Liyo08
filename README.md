@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Liyo%20Tom&fontSize=90&fontAlign=50&fontAlignY=40&animation=twinkling"/>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=200&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer;ReactJS;Flutter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=200&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=SAP ABAP Backend Developer;ReactJS;Flutter" alt="Typing SVG" />
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -32,17 +32,18 @@
 ### 💡 About Me
 
 <p>
-Hey there! I'm <b>Liyo Tom</b>, a B.Tech Computer Science student passionate about crafting clean, interactive frontends. I specialize in bringing designs to life using <b>ReactJS</b> and <b>Flutter</b>. My journey is driven by a love for seamless UI/UX and experimenting with real-time systems.
+Hey there! I'm <b>Liyo Tom</b>, an SAP ABAP Backend Developer with a background in B.Tech Computer Science. I specialize in building efficient and scalable enterprise solutions using <b>ABAP</b>, while also having experience in crafting interactive applications with <b>ReactJS</b> and <b>Flutter</b>. My journey is driven by a passion for solving real-world business problems and continuously learning modern technologies.
 </p>
 
-- **Current Focus**: Building full-stack apps with **Flutter** and **Firebase**
-- **Learning**: **Real-time systems** and **Clean UI** architecture
-- **Goal**: To create impactful digital experiences that bridge design and functionality
-- **Fun Fact**: I love bringing static designs to life with interactive code!
+- **Current Focus**: Developing and optimizing enterprise solutions using **ABAP (SAP Backend)**
+- **Experience With**: **ReactJS**, **Flutter**, and **Firebase**
+- **Learning**: Advanced **SAP development** and scalable system design
+- **Goal**: To build impactful solutions that combine strong backend logic with seamless user experiences
+- **Fun Fact**: I enjoy turning complex requirements into clean and efficient code!
 
 <h3 align="left"> My Passion</h3>
 <p>
-I believe in the power of visual storytelling through code. Whether it's architecting a complex mobile application or refining the smallest animation on a web page, I am always experimenting with new ideas to push the boundaries of Frontend Development.
+I am passionate about building robust backend systems that power enterprise applications. From designing efficient ABAP programs to exploring modern frontend technologies, I enjoy creating solutions that are both technically strong and user-focused. I constantly experiment and learn to grow as a well-rounded developer.
 </p>
 
 <br clear="right"/>
@@ -51,6 +52,8 @@ I believe in the power of visual storytelling through code. Whether it's archite
 
 ### 🧑‍💻 Tech Stack
 <p align="left">
+  <img src="https://img.shields.io/badge/SAP-%2300A1E0.svg?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABAP-Backend-blue?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -93,8 +96,8 @@ I believe in the power of visual storytelling through code. Whether it's archite
 </div>
 
 <div align="center">
-  <h3>Ready to build something amazing together?</h3>
-  <p><em>Let's connect and turn ideas into reality!</em></p>
+  <h3>Delivering enterprise-grade SAP solutions</h3>
+<p><em>Specializing in robust and optimized ABAP backend development</em></p>
   
   <a href="https://linkedin.com/in/liyotom" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
