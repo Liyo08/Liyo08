@@ -27,12 +27,12 @@
 
 ---
 
-<img align="right" alt="Coding" height="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### 💡 About Me
 
 <p>
-Hey there! I'm <b>Liyo Tom</b>, an SAP ABAP Backend Developer with a background in B.Tech Computer Science. I specialize in building efficient and scalable enterprise solutions using <b>ABAP</b>, while also having experience in crafting interactive applications with <b>ReactJS</b> and <b>Flutter</b>. My journey is driven by a passion for solving real-world business problems and continuously learning modern technologies.
+Hey there! I'm <b>Liyo Tom</b>, an SAP ABAP Backend Developer with a B.Tech in Computer Science. I build efficient, scalable enterprise solutions using <b>ABAP</b>, with experience in <b>ReactJS</b> and <b>Flutter</b>. I'm passionate about solving real-world problems and continuously learning new technologies.
 </p>
 
 - **Current Focus**: Developing and optimizing enterprise solutions using **ABAP**
