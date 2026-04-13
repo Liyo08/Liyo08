@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/liyo08?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=liyo08&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Dev-brightgreen?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-ABAP%20Dev-brightgreen?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Stack-React%20%26%20Flutter-blue?style=flat-square" alt="Stack" />
 </div>
 
