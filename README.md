@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Liyo%20Tom&fontSize=90&fontAlign=50&fontAlignY=40&animation=twinkling"/>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=200&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=SAP ABAP Backend Developer;ReactJS;Flutter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=200&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ABAP%20Backend%20Developer;ReactJS;Flutter" alt="Typing SVG" />
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -27,7 +27,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### 💡 About Me
 
