@@ -77,8 +77,8 @@ I am passionate about building robust backend systems that power enterprise appl
 
 ### 📈 GitHub Stats
 <p align="left">
- <img height="150" src="https://streak-stats.demolab.com?user=liyo08&theme=tokyonight" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyo08&layout=compact&theme=tokyonight&v=2" />
+<img height="150" src="https://streak-stats.demolab.com?user=liyo08&theme=tokyonight" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=liyo08&show_icons=true&theme=tokyonight&hide_border=true" />
   
 </p>
 
