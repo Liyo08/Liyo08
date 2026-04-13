@@ -27,7 +27,7 @@
 
 ---
 
-<img align="right" alt="Coding" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding" height="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### 💡 About Me
 
