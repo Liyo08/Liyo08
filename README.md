@@ -39,7 +39,7 @@ Hey there! I'm <b>Liyo Tom</b>, an SAP ABAP Backend Developer with a B.Tech in C
 - **Experience With**: **ReactJS**, **Flutter**, and **Firebase**
 - **Learning**: Advanced **SAP development** and scalable system design
 - **Goal**: Build impactful solutions with strong backend and seamless UX
-- **Fun Fact**: I enjoy turning complex requirements into clean and efficient code!
+- **Fun Fact**: I enjoy turning complex requirements into clean code!
 
 <h3 align="left"> My Passion</h3>
 <p>
