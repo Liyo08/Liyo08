@@ -35,7 +35,7 @@
 Hey there! I'm <b>Liyo Tom</b>, an SAP ABAP Backend Developer with a background in B.Tech Computer Science. I specialize in building efficient and scalable enterprise solutions using <b>ABAP</b>, while also having experience in crafting interactive applications with <b>ReactJS</b> and <b>Flutter</b>. My journey is driven by a passion for solving real-world business problems and continuously learning modern technologies.
 </p>
 
-- **Current Focus**: Developing and optimizing enterprise solutions using **ABAP (SAP Backend)**
+- **Current Focus**: Developing and optimizing enterprise solutions using **ABAP**
 - **Experience With**: **ReactJS**, **Flutter**, and **Firebase**
 - **Learning**: Advanced **SAP development** and scalable system design
 - **Goal**: To build impactful solutions that combine strong backend logic with seamless user experiences
